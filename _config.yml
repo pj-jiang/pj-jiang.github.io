@@ -24,9 +24,7 @@ footer:
       link: mailto:vivekg@mit.edu
   follow:
     - name: GitHub
-      link: http://github.com/eigenvivek
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/pj-jiang
 
 # Build settings
 markdown: kramdown
