@@ -20,13 +20,13 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: vivekg@mit.edu
-      link: mailto:vivekg@mit.edu
+      value: pj.jiang@siat.ac.cn
+      link: mailto:pj.jiang@siat.ac.cn
   follow:
     - name: GitHub
-      link: http://github.com/eigenvivek
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/pj-jiang
+    - name: GoogleScholar
+      link: https://scholar.google.com/citations?user=uiUhoLwAAAAJ&hl=zh-CN
 
 # Build settings
 markdown: kramdown
