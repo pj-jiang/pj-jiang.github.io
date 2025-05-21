@@ -5,17 +5,15 @@ profile_picture:
   alt: website picture
 ---
 
-**PhD Candidate** • [Harvard-MIT Health Sciences and Technology](https://hst.mit.edu/) \\
-*Group*: [Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/) \\
-*Advisor*: [Dr. Polina Golland](https://people.csail.mit.edu/polina/)
+**MS student** • [University of Chinese Academy of Sciences]\\
+*Advisor*: [Dr. Ying Hu]
 
-I am a PhD student at the Harvard-MIT Program in Health Sciences and Technology, advised by Polina Golland. My research focuses on developing computer vision models to extract crucial 3D information from 2D medical imaging, aiming to advance diagnostics, image-guided interventions, and surgical robotics.
+I am a Ms student at the University of Chinese Academy of Sciences, advised by Ying Hu. My research focuses on developing computer vision models to extract crucial 3D information from 2D medical imaging, aiming to image-guided interventions, and surgical robotics.
 
 <center>
-  <a href="mailto:vivekg@mit.edu">Email</a> •
-  <a href="/assets/Vivek_Gopalakrishnan_CV.pdf">CV</a> •
-  <a href="https://scholar.google.com/citations?user=kYGmJpAAAAAJ&hl=en">Google Scholar</a> •
-  <a href="https://github.com/eigenvivek">GitHub</a>
+  <a href="mailto:pj.jiang@siat.ac.cn">Email</a> •
+  <a href="https://scholar.google.com/citations?user=uiUhoLwAAAAJ&hl=zh-CN">Google Scholar</a> •
+  <a href="https://github.com/pj-jiang">GitHub</a>
 </center>
 
 ## Research
