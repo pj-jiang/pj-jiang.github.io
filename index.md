@@ -87,27 +87,6 @@ I am a Ms student at the University of Chinese Academy of Sciences, advised by Y
   </div>
 </div>
 
-<!-- <div class="image-text-block">
-  <img src="/assets/img/spine.gif" alt="spine.html">
-  <div>
-    <p><strong class="strong-title"><a href="https://thejns.org/focus/view/journals/neurosurg-focus/54/6/article-pE16.xml">Machine Learning for Automated and Real-Time 2D/3D Registration of the Spine using a Single Radiograph</a></strong></p>
-    <p class="author-list">
-      <a href="#">Andrew Abumoussa</a>,
-      <b>Vivek Gopalakrishnan</b>,
-      <a href="#">Benjamin Succop</a>,
-      <a href="#">Michael Galgano</a>,
-      <a href="#">Sivakumar Jaikumar</a>,
-      <a href="#">Yeuh Z. Lee</a>,
-      <a href="#">Deb A. Bhowmick</a>
-    </p>
-    <p class="journal-year"><em>Neurosurgical Focus</em>, 2023</p>
-    <div class="links">
-      <a href="https://thejns.org/focus/view/journals/neurosurg-focus/54/6/article-pE16.xml">paper</a>
-    </div>
-    <p>We use <code>DiffDRR</code> to solve a 2D/3D registration problem in image-guided spinal surgery.</p>
-  </div>
-</div> -->
-
 <div class="image-text-block">
   <img src="/assets/img/diffdrr.gif" alt="woowoowooooo">
   <div>
@@ -125,8 +104,6 @@ I am a Ms student at the University of Chinese Academy of Sciences, advised by Y
     <p>We present <code>DiffDRR</code>, a differentiable X-ray renderer that can be used to solve inverse problems in X-ray imaging with deep learning (e.g., registration or reconstruction).</p>
   </div>
 </div>
-
-### Drug Discovery
 
 <div class="image-text-block">
   <img src="/assets/img/xellar.gif" alt="zstacks">
@@ -147,58 +124,7 @@ I am a Ms student at the University of Chinese Academy of Sciences, advised by Y
   </div>
 </div>
 
-### Statistical Graph Theory
 
-<div class="image-text-block">
-  <img src="/assets/img/corpus-callosum.png" alt="corpus callosum">
-  <div>
-    <p><strong class="strong-title"><a href="https://doi.org/10.1162/IMAG.a.2">Multiscale Comparative Connectomics</a></strong></p>
-    <p class="author-list">
-      <b>Vivek Gopalakrishnan</b>,
-      <a href="https://j1c.me/">Jaewon Chung</a>,
-      <a href="https://ericwb.me/">Eric Bridgeford</a>,
-      <a href="https://bdpedigo.github.io/">Benjamin D. Pedigo</a>,
-      <a href="https://jesus-arroyo.github.io/">Jesús Arroyo</a>,
-      <a href="https://www.linkedin.com/in/lucy-upchurch-a56a141">Lucy Upchurch</a>,
-      <a href="https://bme.duke.edu/faculty/allan-johnson">G. Allan Johnson</a>,
-      <a href="https://medicine.iu.edu/faculty/48212/wang-nian">Nian Wang</a>,
-      <a href="https://www.ams.jhu.edu/~priebe/">Carey E. Priebe</a>,
-      <a href="https://jovo.me/">Joushua T. Vogelstein</a>
-    </p>
-    <p class="journal-year"><em>Imaging Neuroscience</em>, 2025</p>
-    <div class="links">
-      <a href="https://github.com/neurodata/MCC">code</a> /
-      <a href="https://doi.org/10.1162/IMAG.a.2">paper</a>
-    </div>
-    <p>
-    We introduce a set of multiscale hypothesis tests to facilitate the robust and reproducible discovery of hierarchical brain structures that vary in relation with phenotypic profiles.
-    </p>
-  </div>
-</div>
-
-<div class="image-text-block">
-  <img src="/assets/img/statistical-connectomics.png" alt="ASE clustering">
-  <div>
-    <p><strong class="strong-title"><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-023234">Statistical  Connectomics</a></strong></p>
-    <p class="author-list">
-      <a href="https://j1c.me/">Jaewon Chung</a>,
-      <a href="https://ericwb.me/">Eric Bridgeford</a>,
-      <a href="https://jesus-arroyo.github.io/">Jesús Arroyo</a>,
-      <a href="https://bdpedigo.github.io/">Benjamin D. Pedigo</a>,
-      <a href="https://www.linkedin.com/in/ali-saad-eldin-09250317b">Ali Saad-Eldin</a>,
-      <b>Vivek Gopalakrishnan</b>,
-      <a href="#">Ling Xiang</a>,
-      <a href="https://www.ams.jhu.edu/~priebe/">Carey E. Priebe</a>,
-      <a href="https://jovo.me/">Joushua T. Vogelstein</a>
-    </p>
-    <p class="journal-year"><em>Annual Review of Statistics and Its Application</em>, 2021</p>
-    <div class="links">
-      <a href="https://github.com/microsoft/graspologic">code</a> /
-      <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-023234">paper</a>
-    </div>
-    <p>From a statistical graph theory perspective, we review models, assumptions, problems, and applications that are theoretically and empirically justified for analysis of connectome data.</p>
-  </div>
-</div>
 
 <!-- ### Survival Analysis -->
 
